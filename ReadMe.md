@@ -1,5 +1,13 @@
-# 💫 About Me:
-estudante de front end.<br>e busca de primeira vaga de júnior 
+# olá. eu sou vanilson silva
+
+- 💻 progamador front-end
+- 👨‍💻 cursando analise e desenvolvimento de sistemas / uniasselvi
+- 👨‍💼 a procura do primeiro estagio
+
+ 
+- ### Em busca de minha primeira oportunidade profissional, estou comprometido em dedicar-me integralmente ao trabalho, focando em aprender e aprimorar minhas habilidades diariamente. Acredito que, ao ingressar no mercado, poderei adquirir conhecimento contínuo e contribuir de forma positiva para a empresa.
+
+
 
 
 ## 🌐 Socials:
