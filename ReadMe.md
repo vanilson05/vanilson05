@@ -5,7 +5,7 @@
 - 👨‍💼 a procura de novas oportunidades de enprego
 
  
-- ### Em busca de oportunidades profissional, estou comprometido em dedicar-me integralmente ao trabalho, focando em aprender e aprimorar minhas habilidades diariamente. Acredito que, ao ingressar no mercado, poderei adquirir conhecimento contínuo e contribuir de forma positiva para a empresa.
+- ###  Tenho experiência na criação de sistemas voltados para games e no planejamento de treinos estruturados, além de interesse em desenvolvimento full-stack. Trabalho com tecnologias e ferramentas para criação de plataformas intuitivas e funcionais, sempre buscando aprimorar minhas habilidades e colaborar de forma eficaz em projetos desafiadores..
 
 
 
