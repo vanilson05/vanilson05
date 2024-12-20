@@ -1,11 +1,10 @@
 # olá. eu sou vanilson silva
 
-- 💻 progamador front-end
+- 💻 progamador front-end com foco no Full-Stack
 - 👨‍💻 cursando analise e desenvolvimento de sistemas / uniasselvi
-- 👨‍💼 a procura de novas oportunidades de enprego
 
  
-- ###  Tenho experiência na criação de sistemas voltados para games e no planejamento de treinos estruturados, além de interesse em desenvolvimento full-stack. Trabalho com tecnologias e ferramentas para criação de plataformas intuitivas e funcionais, sempre buscando aprimorar minhas habilidades e colaborar de forma eficaz em projetos desafiadores..
+- ###  Tenho experiência na criação de sistemas voltados para  Web e no planejamento de treinos estruturados, além de interesse em desenvolvimento full-stack. Trabalho com tecnologias e ferramentas para criação de plataformas intuitivas e funcionais, sempre buscando aprimorar minhas habilidades e colaborar de forma eficaz em projetos desafiadores..
 
 
 
