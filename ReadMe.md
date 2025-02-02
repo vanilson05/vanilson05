@@ -4,8 +4,8 @@
 - 👨‍💻 cursando analise e desenvolvimento de sistemas / uniasselvi
 
  
-- ###  Tenho experiência na criação de sistemas voltados para  Web e no planejamento de treinos estruturados, além de interesse em desenvolvimento full-stack. Trabalho com tecnologias e ferramentas para criação de plataformas intuitivas e funcionais, sempre buscando aprimorar minhas habilidades e colaborar de forma eficaz em projetos desafiadores...
-
+  
+- ## Desenvolvedor front-end experiente, com um histórico de projetos web bem-sucedidos e paixão por transformar ideias em realidade. Busco novos desafios e oportunidades para evoluir minhas habilidades full-stack, colaborando em projetos ambiciosos e inovadores
 
 
 
