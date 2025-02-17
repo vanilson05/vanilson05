@@ -5,7 +5,7 @@
 
  
   
-- ## Desenvolvedor front-end experiente, com um histórico de projetos web bem-sucedidos e paixão por transformar ideias em realidade. Busco novos desafios e oportunidades para evoluir minhas habilidades full-stack, colaborando em projetos ambiciosos e inovadores
+- ## Desenvolvedor Front-End com experiência em projetos web e paixão por transformar ideias em realidade. Busco desafios que me permitam crescer como Full-Stack, contribuindo para projetos inovadores e ambiciosos
 
 
 
