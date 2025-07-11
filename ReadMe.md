@@ -46,7 +46,7 @@
 <p align="center">
    <a href="https://portif-lio-vs-govc.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-%231841B3?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/vanilson~silva/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:souzavanilson496@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:vanilsonvns75@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
 
 ---
