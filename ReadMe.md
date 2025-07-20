@@ -53,7 +53,7 @@
 
 ---
 
-### 🟨 Gráfico de contribuições animado (Pacman style)
+### 🟨 Gráfico (Pacman)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
