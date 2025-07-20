@@ -19,7 +19,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🚀 Foco em desenvolvimento Web Front-End (HTML, CSS, JS e React)
+- 🚀 Foco em desenvolvimento Web Front-End (HTML, CSS, JS, TypeScript e React)
 - 🎯 Estudando para ser um programador completo e empreendedor digital
 - 📚 Sempre criando novos projetos e produtos para a comunidade dev
 - 🧠 Explorando comandos avançados, terminal e ferramentas de automação
@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -52,7 +53,7 @@
 
 ---
 
-### 🟨 Gráfico (Pacman)
+### 🟨 Gráfico de contribuições animado (Pacman style)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
@@ -62,9 +63,15 @@
 
 ---
 
-<p align="center">
+<div align="center">
+
+  <h3>📊 Gráfico de Atividade do GitHub</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanilson05&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true" alt="Gráfico de atividade do GitHub" />
-</p>
+
+  <h3>🔥 Sequência de commits (Streak Stats)</h3>
+  <img src="https://streak-stats.demolab.com?user=vanilson05&theme=tokyonight&hide_border=false" alt="Gráfico de sequência de commits" />
+
+</div>
 
 ---
 
