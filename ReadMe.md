@@ -6,7 +6,6 @@
 
 </div>
 
-
 ---
 
 <div align="center">
@@ -41,6 +40,34 @@
 
 ---
 
+### 💻 Visão dev
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+
+<p align="left">
+  Curioso por tecnologia, desenvolvimento web e automações que facilitam a vida. <br><br>
+  Sempre buscando evoluir com prática, projetos reais e novas stacks que desafiem meu conhecimento. <br><br>
+  Aprender construindo é meu lema 🚀
+</p>
+
+---
+
+### 🟨 Gráfico (Pacman)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanilson05&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true" alt="Gráfico de atividade do GitHub" />
+</p>
+
+---
+
 ### 📫 Contato
 
 <p align="center">
@@ -52,4 +79,3 @@
 ---
 
 <h4 align="center">🚀 Obrigado pela visita! Vamos construir juntos! 🚀</h4>
-
