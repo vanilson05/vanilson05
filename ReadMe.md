@@ -61,15 +61,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
-### 📈 Métricas de Contribuição
-
-<p align="center">
-  <img src="https://github.com/vanilson05/vanilson05/blob/main/github-metrics.svg" alt="Métricas do GitHub" />
-</p>
-
----
 
 ### 📫 Contato
 
