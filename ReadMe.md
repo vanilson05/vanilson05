@@ -9,11 +9,9 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/vanilson05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanilson05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanilson05&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/vanilson05/vanilson05/main/metrics.plugin.activity.svg" width="85%"/>
 </div>
+
 
 ---
 
@@ -33,7 +31,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -43,14 +44,15 @@
 
 ### 💻 Visão dev
 
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
 <p align="left">
-  Curioso por tecnologia, desenvolvimento web e automações que facilitam a vida. <br><br>
-  Sempre buscando evoluir com prática, projetos reais e novas stacks que desafiem meu conhecimento. <br><br>
-  Aprender construindo é meu lema 🚀
+  Tecnologia é minha paixão, e construir soluções sempre foi meu jeito de aprender. <br><br>
+  Acredito que programação não é sobre dominar tudo, mas sobre compreender problemas e escolher a melhor tecnologia para resolvê-los. <br><br>
+  Busco evoluir com prática, desafios reais e projetos que estimulam criatividade. <br><br>
+  Meu lema é simples: aprender construindo — sempre buscando clareza, eficiência e inovação. 🚀
 </p>
-
 ---
 
 ### 🟨 Gráfico (Pacman)
