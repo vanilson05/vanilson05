@@ -1,6 +1,7 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 */12 * * *"}]
+  schedule: [{cron: "0 0 * * *"}] # Atualiza todo dia
+  push: {branches: ["main"]}
   workflow_dispatch:
 
 jobs:
@@ -9,11 +10,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.activity.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
-          config_display: large

@@ -1,16 +1,32 @@
-name: Metrics
+jobs:
+name: GitHub Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Atualiza todo dia
-  push: {branches: ["main"]}
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
-jobs:
+
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Metrics
+        uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
+          filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          user: vanilson05
+          base: ""
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_visibility: public
+          plugin_activity_timestamps: yes
+          plugin_activity_skipped: ""
+          plugin_activity_load: 300
           config_timezone: America/Sao_Paulo
+          config_display: columns
+          config_output: svg
+          config_presets: ""
+          config_order: activity
+          config_theme: blue
