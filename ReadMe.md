@@ -9,8 +9,9 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vanilson05/vanilson05/main/metrics.plugin.activity.svg" width="85%"/>
+  <img src="https://raw.githubusercontent.com/vanilson05/vanilson05/main/metrics.svg" width="85%"/>
 </div>
+
 
 
 ---
