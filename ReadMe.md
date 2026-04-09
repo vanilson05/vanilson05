@@ -72,4 +72,4 @@
 
 ---
 
-<h4 align="center">🚀 Obrigado pela visita! Vamos construir juntos! 🚀</h4>
+<h4 align="center">⚡ Tudo se conecta.</h4>
