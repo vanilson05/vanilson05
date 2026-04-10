@@ -15,7 +15,6 @@
 ### 👨‍💻 Sobre mim
 
 - 🚀 Foco em desenvolvimento Web Front-End (golang ,JavaScript, TypeScript e React)
-- 🎯 Estudando para ser um programador completo e empreendedor digital
 - 📚 Sempre criando novos projetos e produtos para a comunidade dev
 - 🧠 Explorando comandos avançados, terminal e ferramentas de automação
 
