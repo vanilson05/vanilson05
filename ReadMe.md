@@ -39,7 +39,7 @@
 
 ---
 
-### 💻 Visão dev
+### 💻 visão profissional 
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
