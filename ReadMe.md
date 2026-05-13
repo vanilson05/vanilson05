@@ -12,7 +12,8 @@
 
 - 🚀 Foco em desenvolvimento Web Front-End (golang ,JavaScript, TypeScript e React)
 - 📚 Sempre criando novos projetos e produtos para a comunidade dev
-- 🧠 Explorando comandos avançados, terminal e ferramentas de automação 
+- 🧠 Explorando comandos avançados, terminal e ferramentas de automação
+
 ---
 
 ### 🛠️ Skills
