@@ -64,6 +64,6 @@
   <a href="mailto:vanilsonvns75@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+--- 
 
 <h4 align="center">⚡ Tudo se conecta.</h4>
