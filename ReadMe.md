@@ -14,7 +14,7 @@
 - 📚 Sempre criando novos projetos e produtos para a comunidade dev
 - 🧠 Explorando comandos avançados, terminal e ferramentas de automação
 
----
+--- 
 
 ### 🛠️ Skills 
 
