@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🚀 Foco em desenvolvimento Web Front-End (golang ,JavaScript, TypeScript e React)
+- 🚀 Foco em desenvolvimento Web Front-End (JavaScript, TypeScript, react, react native, angula)
 - 📚 Sempre criando novos projetos e produtos para a comunidade dev
 - 🧠 Explorando comandos avançados, terminal e ferramentas de automação
 
