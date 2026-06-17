@@ -40,10 +40,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
 <p align="left">
-  Tecnologia é minha paixão, e construir soluções sempre foi meu jeito de aprender. <br><br>
-  Acredito que programação não é sobre dominar tudo, mas sobre compreender problemas e escolher a melhor tecnologia para resolvê-los. <br><br>
-  Busco evoluir com prática, desafios reais e projetos que estimulam criatividade. <br><br>
-  Meu lema é simples: aprender construindo — sempre buscando clareza, eficiência e inovação. 🚀
+Sou movido pela curiosidade e pela vontade de transformar ideias em realidade.
+Encaro cada projeto como uma oportunidade de aprender algo novo, evoluir minhas habilidades e criar soluções que façam sentido para as pessoas.
+A tecnologia está em constante mudança, e é justamente esse desafio que me motiva a continuar crescendo todos os dias.
 </p>
 ---
 
