@@ -4,7 +4,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Fala%2C+devs!+Seja+bem-vindo(a)+ao+meu+perfil;Meu+nome+é+Vanilson;Sou+desenvolvedor+Front-End+apaixonado+por+tecnologia)](https://git.io/typing-svg)
   
-</div>
+</div> 
 
 ---  
 
