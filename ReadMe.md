@@ -55,7 +55,7 @@ A tecnologia está em constante mudança, e é justamente esse desafio que me mo
 </picture>
 
 
-### 📫 Contato
+### 📫 Contato 
 
 <p align="center">
   <a href="vanilson.netlify.app"><img src="https://img.shields.io/badge/Portfólio-%231841B3?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
