@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
  
-<div align="center"> 
+<div align="center">  
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Fala%2C+devs!+Seja+bem-vindo(a)+ao+meu+perfil;Meu+nome+é+Vanilson;Sou+desenvolvedor+Front-End+apaixonado+por+tecnologia)](https://git.io/typing-svg)
   
