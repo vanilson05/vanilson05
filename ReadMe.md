@@ -23,14 +23,11 @@ A tecnologia está em constante mudança, e é justamente esse desafio que me mo
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanilson05&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&title=Stars,Commits,PullRequest,Repositories,Followers,MultipleYears,Experience" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanilson05&theme=github-compact&hide_border=true&area=true" width="95%"/>
 </div>
-
-### 🐍 Gráfico (Cobrinha)
 
 <div align="center">
   <picture>
