@@ -3,7 +3,7 @@
 <div align="center">     
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=4000&color=00BFFF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+me+chamo+Vanilson;Desenvolvedor+Front-End)](https://git.io/typing-svg)
- 
+
 </div>
 
 ---  
