@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,angular,vite,go,tailwind,figma,git&theme=dark" />
 </div>
 
----
+--- 
 
 <p align="center">
 Sou movido pela curiosidade e pela vontade de transformar ideias em realidade.
