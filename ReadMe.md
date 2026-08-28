@@ -8,7 +8,7 @@
  
 ---    
 
-### 🛠️ Skills
+### 🛠️ Skills 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,angular,vite,go,tailwind,figma,git&theme=dark" />
