@@ -1,20 +1,18 @@
-<img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
-    
-<div align="center">      
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png">
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=4000&color=00BFFF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+me+chamo+Vanilson;Desenvolvedor+Front-End)](https://git.io/typing-svg)
- 
-</div>
-  
----    
- 
-### 🛠️ Skills 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=4000&color=00BFFF&center=true&vCenter=true&width=420&lines=Ol%C3%A1%2C+me+chamo+Vanilson" /></a>
+  <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" />
+</p>
 
-<div align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,vite,go,tailwind,figma,git&theme=dark" />
-</div>
+---
 
---- 
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" />
+  Sobre mim
+</h3>
 
 <p align="center">
 Sou movido pela curiosidade e pela vontade de transformar ideias em realidade.
@@ -23,11 +21,24 @@ A tecnologia está em constante mudança, e é justamente esse desafio que me mo
 </p>
 
 ---
-### 📊 GitHub Stats
+
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" />
+  Skills
+</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanilson05&theme=github-compact&hide_border=true&area=true" width="95%"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,vite,go,tailwind,figma,git&theme=dark&perline=5" />
+  <img width="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" height="140" />
 </div>
+
+---
+
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" />
+  Atividade
+</h3>
 
 <div align="center">
   <picture>
@@ -37,14 +48,22 @@ A tecnologia está em constante mudança, e é justamente esse desafio que me mo
   </picture>
 </div>
 
-### 📫 Contato  
+---
+
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" width="30" />
+  Contato
+</h3>
 
 <p align="center">
   <a href="https://vanilson.netlify.app/"><img src="https://img.shields.io/badge/Portfólio-%231841B3?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vanilson~silva/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vanilson-souza/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:vanilsonvns75@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-<h4 align="center">⚡ Tudo se conecta.</h4>
+<h4 align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35" />
+  Tudo se conecta.
+</h4>
